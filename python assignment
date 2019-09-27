@@ -1,0 +1,14 @@
+1) Print the output in following order using print function in a single line.
+
+Twinkle, twinkle, little star,
+	How I wonder what you are! 
+		Up above the world so high,   		
+		Like a diamond in the sky. 
+Twinkle, twinkle, little star, 
+	How I wonder what you are!
+  
+2) what is the ouput produced by following program\
+ h = 5
+ w = 30
+ Area = h * w
+ print ("Area = " , Area)
